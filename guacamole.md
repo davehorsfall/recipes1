@@ -4,4 +4,5 @@
 - salt (1) 
 - olive oil (1)
 # Instructions
-put three avocados into bowl
+put two avocados into bowl
+
