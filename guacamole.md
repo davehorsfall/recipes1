@@ -1,6 +1,6 @@
 # Ingredients
-- avocado
-- lime
-- salt
-- olive oil
+- avocado (1)
+- lime (1)
+- salt (1) 
+- olive oil (1)
 # Instructions
